@@ -17,9 +17,7 @@
 			"url": "https://raw.githubusercontent.com/loraine19/Roundieswall/master/b.png",
 			"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
 		"collections": "GRADIENT|ABSTRACT",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920",
+		"downloadable": false,
 			"copyright": "LP"
 		},
 		{
